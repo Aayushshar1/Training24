@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Kennett",
+    "last_name": "Lambregts",
+    "email": "klambregts0@sciencedirect.com",
+    "gender": "Male",
+    "salary": 10000
+  },
+  {
+    "id": 2,
+    "first_name": "Olympe",
+    "last_name": "Emmanuele",
+    "email": "oemmanuele1@nbcnews.com",
+    "gender": "Female",
+    "salary": 10000
+  },
+  {
+    "id": 3,
+    "first_name": "Rodina",
+    "last_name": "Pisculli",
+    "email": "rpisculli2@cnet.com",
+    "gender": "Female",
+    "salary": 10000
+  },
+  {
+    "id": 4,
+    "first_name": "Dyanne",
+    "last_name": "Pohlak",
+    "email": "dpohlak3@wordpress.com",
+    "gender": "Female",
+    "salary": 10000
+  },
+  {
+    "id": 5,
+    "first_name": "Ambur",
+    "last_name": "Lemmen",
+    "email": "alemmen4@devhub.com",
+    "gender": "Female",
+    "salary": 10000
+  },
+  {
+    "id": 6,
+    "first_name": "Guilbert",
+    "last_name": "Grigg",
+    "email": "ggrigg5@phoca.cz",
+    "gender": "Male",
+    "salary": 10000
+  },
+  {
+    "id": 7,
+    "first_name": "Titos",
+    "last_name": "Godlonton",
+    "email": "tgodlonton6@whitehouse.gov",
+    "gender": "Male",
+    "salary": 10000
+  },
+  {
+    "id": 8,
+    "first_name": "Germain",
+    "last_name": "Skouling",
+    "email": "gskouling7@e-recht24.de",
+    "gender": "Female",
+    "salary": 10000
+  },
+  {
+    "id": 9,
+    "first_name": "Sol",
+    "last_name": "Lavelle",
+    "email": "slavelle8@thetimes.co.uk",
+    "gender": "Male",
+    "salary": 10000
+  },
+  {
+    "id": 10,
+    "first_name": "Jarad",
+    "last_name": "Wyld",
+    "email": "jwyld9@istockphoto.com",
+    "gender": "Male",
+    "salary": 10000
+  }
+]
